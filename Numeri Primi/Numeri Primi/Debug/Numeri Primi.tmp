@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Programmi\Atmel Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>F:\Programmi\Atmel Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Programmi\Atmel Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\Debug\Numeri Primi.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Numeri Primi.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Numeri Primi.map</FILE>
+  <FILE>Numeri Primi.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>23</LINE></setup>
+  <ram_clear><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>194</LINE></ram_clear>
+  <ram_fill><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>201</LINE></ram_fill>
+  <loop><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>80</LINE></loop>
+  <sieve><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>213</LINE></sieve>
+  <next_multiple><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>88</LINE></next_multiple>
+  <organize_data><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>121</LINE></organize_data>
+  <find_first_empty><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>130</LINE></find_first_empty>
+  <find_numbers><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>150</LINE></find_numbers>
+  <continue><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>162</LINE></continue>
+  <end><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>191</LINE></end>
+  <move_numbers><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>181</LINE></move_numbers>
+  <already_deleted><FILE>F:\OneDrive - University of Pisa\Progetti Atmel Studio\Numeri Primi\Numeri Primi\2B_numbers.asm</FILE><LINE>241</LINE></already_deleted>
+ </LABELS>
+</ASSEMBLER_INFO>
